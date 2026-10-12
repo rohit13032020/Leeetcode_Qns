@@ -21,8 +21,6 @@ class Solution {
         if (root == null) {
             return;
         }
-
-
         currentSum += root.val;
         path.add(root.val);
 
@@ -36,7 +34,6 @@ class Solution {
             path.remove(path.size() - 1);
             return;
         }
-
 
         solve(root.left, currentSum, targetSum, path);
         solve(root.right, currentSum, targetSum, path);
