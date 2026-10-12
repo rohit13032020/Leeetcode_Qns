@@ -14,18 +14,17 @@
  * }
  */
 class Solution {
-
+    
     public int sumNumbers(TreeNode root) {
-        return helper(root,0);
+        return Helper(root,0);
     }
-    private int helper(TreeNode node,int currSum) {
-        if(node == null) {
-            return 0;
+    private int Helper(TreeNode root,int Curr_Sum) {
+        if(root == null) return 0;
+        int sum = root.val;
+        Curr_Sum = Curr_Sum * 10 + sum;
+        if(root.left == null && root.right == null) {
+            return Curr_Sum;
         }
-        currSum = currSum * 10 + node.val;
-        if(node.left == null && node.right == null) {
-            return currSum;
-        }
-        return helper(node.left,currSum) + helper(node.right,currSum);
+        return Helper(root.left,Curr_Sum) + Helper(root.right,Curr_Sum);
     }
 }
