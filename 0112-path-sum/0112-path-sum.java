@@ -14,28 +14,27 @@
  * }
  */
 class Solution {
-    boolean result = false;
-
+    private boolean ans = false;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        result = false;
-        helper(root, 0, targetSum);
-        return result;
-    }
-
-    private void helper(TreeNode root, int curr_Sum, int targetSum) {
-        if (root == null) return;
         
-        curr_Sum += root.val;
+        helper(root,0,targetSum);
+        return ans; 
+    }
+    private void helper(TreeNode root,int Current_Sum,int targetSum) {
+        if(root == null) {
+            return;
+        }
+        Current_Sum += root.val;
 
-        // Base case 2: Leaf node check
-        if (root.left == null && root.right == null) {
-            if (curr_Sum == targetSum) {
-                result = true;
+        // check leaf node 
+        if(root.left == null && root.right == null) {
+            if(Current_Sum == targetSum) {
+                ans = true;
             }
             return;
         }
-
-        helper(root.left, curr_Sum, targetSum);
-        helper(root.right, curr_Sum, targetSum);
+        // call recursion fun for left and right
+        helper(root.right,Current_Sum,targetSum);
+        helper(root.left,Current_Sum,targetSum);
     }
 }
