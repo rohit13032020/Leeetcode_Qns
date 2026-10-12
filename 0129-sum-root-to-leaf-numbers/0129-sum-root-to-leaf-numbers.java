@@ -20,8 +20,8 @@ class Solution {
     }
     private int Helper(TreeNode root,int Curr_Sum) {
         if(root == null) return 0;
-        int sum = root.val;
-        Curr_Sum = Curr_Sum * 10 + sum;
+        int root_val = root.val;
+        Curr_Sum = Curr_Sum * 10 + root_val;
         if(root.left == null && root.right == null) {
             return Curr_Sum;
         }
