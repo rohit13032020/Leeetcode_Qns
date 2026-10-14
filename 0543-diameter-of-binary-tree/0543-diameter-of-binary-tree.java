@@ -14,19 +14,20 @@
  * }
  */
 class Solution {
-    int max_dipt = 0;
+    int max_sum = 0;
     public int diameterOfBinaryTree(TreeNode root) {
-        max_dipt = 0;
-        helper(root);
-        return max_dipt;
+        if(root == null) return 0;
+        Helper(root);
+        return max_sum;
     }
-    private int helper(TreeNode node) {
-        if(node == null) {
-            return 0;
-        }
-        int left_high = helper(node.left);
-        int right_high = helper(node.right);
-        max_dipt = Math.max(max_dipt,left_high + right_high);
-        return 1 + Math.max(left_high,right_high);
+    private int Helper(TreeNode root) {
+        if(root == null) return 0;
+
+        int left_sum = Helper(root.left);
+        int right_sum = Helper(root.right);
+
+        max_sum = Math.max(max_sum,left_sum+right_sum);
+
+        return 1 + Math.max(left_sum,right_sum);
     }
 }
