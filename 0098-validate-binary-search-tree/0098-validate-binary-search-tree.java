@@ -14,30 +14,29 @@
  * }
  */
 class Solution {
+    private boolean isvalid = true;
     private TreeNode prev = null;
-    private boolean isValid = true;
     public boolean isValidBST(TreeNode root) {
         prev = null;
-        isValid = true;
+        isvalid = true;
         Inorder(root);
-        return isValid;
-
+        return isvalid;
     }
     private void Inorder(TreeNode root) {
-        if(root == null) {
-            return;
-        }
-        Inorder(root.left);
+       if(root == null) {
+        return;
+       }
+       Inorder(root.left);
 
-        if(prev == null){
-            prev = root;
-        } else {
-               if(root.val <= prev.val) {
-               isValid = false;
-               }
-               prev = root;
+       if(prev == null) {
+        prev = root;;
+       } else {
+        if(root.val <= prev.val) {
+            isvalid = false;
         }
-        Inorder(root.right);
+        prev = root;
+       }
+       Inorder(root.right);
 
     }
 }
