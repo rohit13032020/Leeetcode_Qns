@@ -571,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0572-subtree-of-another-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
