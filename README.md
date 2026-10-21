@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -575,4 +577,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
