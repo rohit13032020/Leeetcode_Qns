@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2270-number-of-ways-to-split-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0922-sort-array-by-parity-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Ternary Search
 |  |
 | ------- |
