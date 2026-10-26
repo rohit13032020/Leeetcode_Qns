@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1248-count-number-of-nice-subarrays) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Counting
 |  |
 | ------- |
