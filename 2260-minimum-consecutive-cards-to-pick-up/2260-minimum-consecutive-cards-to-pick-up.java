@@ -1,13 +1,15 @@
 class Solution {
     public int minimumCardPickup(int[] cards) {
-        Map<Integer,Integer> map = new HashMap<>();
+        int[] lastSeen = new int[1000001];
+        Arrays.fill(lastSeen,-1);
         int res = Integer.MAX_VALUE;
+        for(int right = 0 ; right < cards.length;right++){
+            int card = cards[right];
 
-        for(int i = 0; i < cards.length;i++){
-            if(map.containsKey(cards[i])){
-                res = Math.min(res,i - map.get(cards[i])+1);
+            if(lastSeen[card] != -1){
+                res = Math.min(res,right-lastSeen[card]+1);
             }
-            map.put(cards[i],i);
+            lastSeen[card] = right; 
         }
         return res == Integer.MAX_VALUE ? -1 : res;
     }
