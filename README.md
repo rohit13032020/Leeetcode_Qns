@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1248-count-number-of-nice-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Counting
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0918-maximum-sum-circular-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
