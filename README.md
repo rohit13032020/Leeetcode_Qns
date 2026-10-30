@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
