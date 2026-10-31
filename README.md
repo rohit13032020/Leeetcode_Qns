@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0875-koko-eating-bananas) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0713-subarray-product-less-than-k) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0852-peak-index-in-a-mountain-array) |
