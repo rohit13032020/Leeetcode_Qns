@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0875-koko-eating-bananas) |
