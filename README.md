@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0450-delete-node-in-a-bst) |
@@ -635,4 +636,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
