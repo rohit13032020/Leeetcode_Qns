@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## DP on Trees
 |  |
 | ------- |
