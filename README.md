@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2270-number-of-ways-to-split-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2560-house-robber-iv](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2594-minimum-time-to-repair-cars) |
 ## Hash Table
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2560-house-robber-iv](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2560-house-robber-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2560-house-robber-iv](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2594-minimum-time-to-repair-cars) |
 ## DP on Trees
 |  |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1382-balance-a-binary-search-tree) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2560-house-robber-iv](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2560-house-robber-iv) |
 ## Sorting
 |  |
 | ------- |
