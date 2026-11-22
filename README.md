@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2594-minimum-time-to-repair-cars) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2560-house-robber-iv](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2560-house-robber-iv) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2594-minimum-time-to-repair-cars) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## DP on Trees
 |  |
 | ------- |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2560-house-robber-iv) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Ternary Search
 |  |
 | ------- |
