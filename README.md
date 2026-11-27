@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1512-number-of-good-pairs) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Sliding Window
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
