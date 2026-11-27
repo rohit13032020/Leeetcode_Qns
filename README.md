@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0611-valid-triangle-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0876-middle-of-the-linked-list) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0450-delete-node-in-a-bst) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0700-search-in-a-binary-search-tree) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0502-ipo) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
